@@ -9,12 +9,12 @@ These are the approaches. The last one have real time mutations ;)
 
 test1.py
 
-![Test1](https://raw.githubusercontent.com/pablogs9/Linear-Game-of-Life/master/test1.gif)
+![Test1](https://raw.githubusercontent.com/pablogs9/Linear-Game-of-Life/master/sample1.gif)
 
 test2.py
 
-![Test2](https://raw.githubusercontent.com/pablogs9/Linear-Game-of-Life/master/test2.gif)
+![Test2](https://raw.githubusercontent.com/pablogs9/Linear-Game-of-Life/master/sample2.gif)
 
 test3.py
 
-![Test3](https://raw.githubusercontent.com/pablogs9/Linear-Game-of-Life/master/test3.gif)
+![Test3](https://raw.githubusercontent.com/pablogs9/Linear-Game-of-Life/master/sample3.gif)
