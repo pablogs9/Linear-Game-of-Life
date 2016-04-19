@@ -3,6 +3,7 @@
 Just some GoL approaches written in Python.
 
 This is the inspiration of the tests:
+
 ![Inspiration](https://raw.githubusercontent.com/pablogs9/Linear-Game-of-Life/master/inspiration.gif)
 
 These are the approaches. The last one have real time mutations ;)
